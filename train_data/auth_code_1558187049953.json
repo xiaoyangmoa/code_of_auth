@@ -1,0 +1,90 @@
+{
+  "imageWidth": 240,
+  "imagePath": "auth_code_1558187049953.jpg",
+  "shapes": [
+    {
+      "line_color": null,
+      "fill_color": null,
+      "label": "e",
+      "points": [
+        [
+          10.599999999999994,
+          17.700000000000003
+        ],
+        [
+          26.599999999999994,
+          35.8
+        ]
+      ],
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "line_color": null,
+      "fill_color": null,
+      "label": "0",
+      "points": [
+        [
+          69.8,
+          18.0
+        ],
+        [
+          86.9,
+          44.099999999999994
+        ]
+      ],
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "line_color": null,
+      "fill_color": null,
+      "label": "e",
+      "points": [
+        [
+          129.7,
+          26.400000000000006
+        ],
+        [
+          147.4,
+          53.2
+        ]
+      ],
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "line_color": null,
+      "fill_color": null,
+      "label": "r",
+      "points": [
+        [
+          189.9,
+          35.2
+        ],
+        [
+          205.89999999999998,
+          55.599999999999994
+        ]
+      ],
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "fillColor": [
+    255,
+    0,
+    0,
+    128
+  ],
+  "flags": {},
+  "lineColor": [
+    0,
+    255,
+    0,
+    128
+  ],
+  "imageHeight": 60,
+  "version": "3.15.2",
+  "imageData": "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"
+}

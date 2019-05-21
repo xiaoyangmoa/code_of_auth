@@ -1,0 +1,90 @@
+{
+  "imageWidth": 240,
+  "imagePath": "auth_code_1558187049968.jpg",
+  "shapes": [
+    {
+      "line_color": null,
+      "fill_color": null,
+      "label": "6",
+      "points": [
+        [
+          11.599999999999994,
+          34.2
+        ],
+        [
+          26,
+          59
+        ]
+      ],
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "line_color": null,
+      "fill_color": null,
+      "label": "e",
+      "points": [
+        [
+          69.3,
+          24.799999999999997
+        ],
+        [
+          87.1,
+          50.7
+        ]
+      ],
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "line_color": null,
+      "fill_color": null,
+      "label": "t",
+      "points": [
+        [
+          129.0,
+          19.099999999999994
+        ],
+        [
+          148.0,
+          46.099999999999994
+        ]
+      ],
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "line_color": null,
+      "fill_color": null,
+      "label": "a",
+      "points": [
+        [
+          188.6,
+          11.099999999999994
+        ],
+        [
+          208.2,
+          39.5
+        ]
+      ],
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "fillColor": [
+    255,
+    0,
+    0,
+    128
+  ],
+  "flags": {},
+  "lineColor": [
+    0,
+    255,
+    0,
+    128
+  ],
+  "imageHeight": 60,
+  "version": "3.15.2",
+  "imageData": "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"
+}

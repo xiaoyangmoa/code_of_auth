@@ -1,0 +1,90 @@
+{
+  "flags": {},
+  "imageData": "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",
+  "shapes": [
+    {
+      "label": "s",
+      "fill_color": null,
+      "flags": {},
+      "line_color": null,
+      "shape_type": "rectangle",
+      "points": [
+        [
+          10.700000000000003,
+          27.799999999999997
+        ],
+        [
+          26.200000000000003,
+          46.2
+        ]
+      ]
+    },
+    {
+      "label": "i",
+      "fill_color": null,
+      "flags": {},
+      "line_color": null,
+      "shape_type": "rectangle",
+      "points": [
+        [
+          70.4,
+          21.5
+        ],
+        [
+          84.80000000000001,
+          49.7
+        ]
+      ]
+    },
+    {
+      "label": "g",
+      "fill_color": null,
+      "flags": {},
+      "line_color": null,
+      "shape_type": "rectangle",
+      "points": [
+        [
+          129.5,
+          23.400000000000006
+        ],
+        [
+          146.8,
+          47.7
+        ]
+      ]
+    },
+    {
+      "label": "e",
+      "fill_color": null,
+      "flags": {},
+      "line_color": null,
+      "shape_type": "rectangle",
+      "points": [
+        [
+          189.2,
+          18.299999999999997
+        ],
+        [
+          210.0,
+          46.8
+        ]
+      ]
+    }
+  ],
+  "imagePath": "auth_code_1558187050149.jpg",
+  "imageHeight": 60,
+  "version": "3.15.2",
+  "fillColor": [
+    255,
+    0,
+    0,
+    128
+  ],
+  "lineColor": [
+    0,
+    255,
+    0,
+    128
+  ],
+  "imageWidth": 240
+}

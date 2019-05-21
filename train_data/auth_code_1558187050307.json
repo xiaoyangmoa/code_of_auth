@@ -1,0 +1,90 @@
+{
+  "flags": {},
+  "imageData": "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",
+  "shapes": [
+    {
+      "label": "0",
+      "fill_color": null,
+      "flags": {},
+      "line_color": null,
+      "shape_type": "rectangle",
+      "points": [
+        [
+          11.0,
+          8.099999999999994
+        ],
+        [
+          26.599999999999994,
+          33.900000000000006
+        ]
+      ]
+    },
+    {
+      "label": "b",
+      "fill_color": null,
+      "flags": {},
+      "line_color": null,
+      "shape_type": "rectangle",
+      "points": [
+        [
+          68.8,
+          17.400000000000006
+        ],
+        [
+          86.69999999999999,
+          45.099999999999994
+        ]
+      ]
+    },
+    {
+      "label": "8",
+      "fill_color": null,
+      "flags": {},
+      "line_color": null,
+      "shape_type": "rectangle",
+      "points": [
+        [
+          130.9,
+          11.099999999999994
+        ],
+        [
+          146.5,
+          37.599999999999994
+        ]
+      ]
+    },
+    {
+      "label": "6",
+      "fill_color": null,
+      "flags": {},
+      "line_color": null,
+      "shape_type": "rectangle",
+      "points": [
+        [
+          189.5,
+          10.799999999999997
+        ],
+        [
+          207.7,
+          36.900000000000006
+        ]
+      ]
+    }
+  ],
+  "imagePath": "auth_code_1558187050307.jpg",
+  "imageHeight": 60,
+  "version": "3.15.2",
+  "fillColor": [
+    255,
+    0,
+    0,
+    128
+  ],
+  "lineColor": [
+    0,
+    255,
+    0,
+    128
+  ],
+  "imageWidth": 240
+}

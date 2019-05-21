@@ -1,0 +1,90 @@
+{
+  "shapes": [
+    {
+      "line_color": null,
+      "flags": {},
+      "shape_type": "rectangle",
+      "label": "3",
+      "fill_color": null,
+      "points": [
+        [
+          10.0,
+          27.099999999999994
+        ],
+        [
+          25.599999999999994,
+          52.7
+        ]
+      ]
+    },
+    {
+      "line_color": null,
+      "flags": {},
+      "shape_type": "rectangle",
+      "label": "e",
+      "fill_color": null,
+      "points": [
+        [
+          70.3,
+          13.599999999999994
+        ],
+        [
+          87.19999999999999,
+          33.8
+        ]
+      ]
+    },
+    {
+      "line_color": null,
+      "flags": {},
+      "shape_type": "rectangle",
+      "label": "8",
+      "fill_color": null,
+      "points": [
+        [
+          130.8,
+          9.900000000000006
+        ],
+        [
+          146.2,
+          35.599999999999994
+        ]
+      ]
+    },
+    {
+      "line_color": null,
+      "flags": {},
+      "shape_type": "rectangle",
+      "label": "i",
+      "fill_color": null,
+      "points": [
+        [
+          192.4,
+          34.599999999999994
+        ],
+        [
+          204,
+          59
+        ]
+      ]
+    }
+  ],
+  "imageWidth": 240,
+  "flags": {},
+  "fillColor": [
+    255,
+    0,
+    0,
+    128
+  ],
+  "lineColor": [
+    0,
+    255,
+    0,
+    128
+  ],
+  "imagePath": "auth_code_1558187049870.jpg",
+  "imageData": "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",
+  "imageHeight": 60,
+  "version": "3.15.2"
+}

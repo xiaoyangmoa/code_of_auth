@@ -1,0 +1,90 @@
+{
+  "flags": {},
+  "imageData": "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",
+  "shapes": [
+    {
+      "label": "n",
+      "fill_color": null,
+      "flags": {},
+      "line_color": null,
+      "shape_type": "rectangle",
+      "points": [
+        [
+          8.799999999999997,
+          27.5
+        ],
+        [
+          26.799999999999997,
+          54.7
+        ]
+      ]
+    },
+    {
+      "label": "t",
+      "fill_color": null,
+      "flags": {},
+      "line_color": null,
+      "shape_type": "rectangle",
+      "points": [
+        [
+          69.6,
+          12.400000000000006
+        ],
+        [
+          87.1,
+          40.099999999999994
+        ]
+      ]
+    },
+    {
+      "label": "0",
+      "fill_color": null,
+      "flags": {},
+      "line_color": null,
+      "shape_type": "rectangle",
+      "points": [
+        [
+          130.3,
+          6.200000000000003
+        ],
+        [
+          147.1,
+          33.400000000000006
+        ]
+      ]
+    },
+    {
+      "label": "4",
+      "fill_color": null,
+      "flags": {},
+      "line_color": null,
+      "shape_type": "rectangle",
+      "points": [
+        [
+          190.2,
+          31.200000000000003
+        ],
+        [
+          208.5,
+          58.900000000000006
+        ]
+      ]
+    }
+  ],
+  "imagePath": "auth_code_1558187050106.jpg",
+  "imageHeight": 60,
+  "version": "3.15.2",
+  "fillColor": [
+    255,
+    0,
+    0,
+    128
+  ],
+  "lineColor": [
+    0,
+    255,
+    0,
+    128
+  ],
+  "imageWidth": 240
+}

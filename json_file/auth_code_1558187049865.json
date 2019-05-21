@@ -1,0 +1,90 @@
+{
+  "shapes": [
+    {
+      "line_color": null,
+      "flags": {},
+      "shape_type": "rectangle",
+      "label": "w",
+      "fill_color": null,
+      "points": [
+        [
+          8.899999999999999,
+          15.900000000000006
+        ],
+        [
+          27.5,
+          41.5
+        ]
+      ]
+    },
+    {
+      "line_color": null,
+      "flags": {},
+      "shape_type": "rectangle",
+      "label": "v",
+      "fill_color": null,
+      "points": [
+        [
+          69.9,
+          20.0
+        ],
+        [
+          86.6,
+          38.8
+        ]
+      ]
+    },
+    {
+      "line_color": null,
+      "flags": {},
+      "shape_type": "rectangle",
+      "label": "m",
+      "fill_color": null,
+      "points": [
+        [
+          130.5,
+          21.700000000000003
+        ],
+        [
+          147.70000000000002,
+          39.80000000000001
+        ]
+      ]
+    },
+    {
+      "line_color": null,
+      "flags": {},
+      "shape_type": "rectangle",
+      "label": "c",
+      "fill_color": null,
+      "points": [
+        [
+          191.0,
+          36.3
+        ],
+        [
+          206.89999999999998,
+          53.8
+        ]
+      ]
+    }
+  ],
+  "imageWidth": 240,
+  "flags": {},
+  "fillColor": [
+    255,
+    0,
+    0,
+    128
+  ],
+  "lineColor": [
+    0,
+    255,
+    0,
+    128
+  ],
+  "imagePath": "auth_code_1558187049865.jpg",
+  "imageData": "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",
+  "imageHeight": 60,
+  "version": "3.15.2"
+}
